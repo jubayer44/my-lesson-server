@@ -15,7 +15,6 @@ app.get('/', (req, res) => {
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
     const singleCourse = courses.find(c => c.id === id);
     if (singleCourse) {
         res.send(singleCourse)
@@ -24,6 +23,18 @@ app.get('/course/:id', (req, res) => {
         res.status(404).send('Course not found')
         };
 });
+
+
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const singleCard = courses.find(card => card.id === id);
+    if (singleCard) {
+        res.send(singleCard)
+    }
+    else {
+        res.status(404).send('Course not found')
+        }
+})
 
 
 
