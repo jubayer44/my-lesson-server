@@ -24,7 +24,6 @@ app.get('/course/:id', (req, res) => {
         };
 });
 
-
 app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
     const singleCard = courses.find(card => card.id === id);
@@ -35,20 +34,6 @@ app.get('/checkout/:id', (req, res) => {
         res.status(404).send('Course not found')
         }
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 app.listen(port, () => {
