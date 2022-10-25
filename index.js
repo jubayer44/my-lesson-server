@@ -7,16 +7,23 @@ app.use(cors());
 
 const courses = require('./data/courses.json');
 
-// app.get('/', (req, res) => {
-//     res.send('Server is running');
-// })
-
 
 app.get('/', (req, res) => {
     res.send(courses);
 });
 
 
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const singleCourse = courses.find(c => c.id === id);
+    if (singleCourse) {
+        res.send(singleCourse)
+    }
+    else {
+        res.status(404).send('Course not found')
+        };
+});
 
 
 
