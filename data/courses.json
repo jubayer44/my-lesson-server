@@ -3,7 +3,7 @@
       "id": "1",
       "title": "Search Engine Marketing (SEM)",
       "price": "200",
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "description": "SEM or Search Engine Marketing is generally considered to cover both PPC and SEO work. Bringing in traffic to your website via search engines is no easy task, that’s why SEO and PPC work to look into bringing said traffic in through both paid and unpaid means. PPC paid advertising, and SEO, which works on bringing in organic traffic. This doesn’t mean that SEO work is free. Keywords lay at the core foundations of any search engine marketing strategy. Firstly you need to identify the keywords that are relevant to your business’s services or products. The keywords need to be ones that your prospective customers are highly likely to use when making a search query. One way easy way to get started with keywords is by using Google Keyword Planner.",
       "category": "digital-marketing",
       "image": "https://img.freepik.com/premium-photo/concept-search-engine-marketing-sem-promote-sites-search_102583-4963.jpg?w=2000",
       "rating": "4.5"
@@ -12,7 +12,7 @@
       "id": "2",
       "title": "Search Engine Optimisation (SEO)",
       "price": "220",
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "description": "We’ll start with SEO, which stands for search engine optimisation. SEO works to make your business optimised for search engines, like Google and Bing. It’s all about moving you up the search engine results page rankings to have better visibility for users searching for your website. Many people don’t bother scrolling to page 2 of search engines, so SEO is essential to work if you want to generate more business from online searches. By no means is SEO a quick fix, when our clients sign up for SEO, we always inform them that the process will take time to yield results. Through keyword research and ranking analysis, we determine how you fair against your competitors for keyword rankings. We then work on optimising your website and the content on it for search engines, as well as building quality links both to and from your website, in order to allow your website to be crawled efficiently. Your content is crawled by search engine robots, or crawlers, to collate the data and index it in search engine archives. Then, when a relevant search term is used, Google will return your site as a result. The ranking determines how relevant your site is to a user’s search term. The goal is to be in the coveted top 3 spots.",
       "category": "digital-marketing",
       "image": "https://www.searchinfluence.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-28-at-4.15.55-PM.png",
       "rating": "4.1"
@@ -21,28 +21,16 @@
       "id": "3",
       "title": "Social Media Marketing (SMM)",
       "price": "150",
-      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-      "category": "digital-marketing",
+      "description": "Social media marketing is the process of working on marketing through, you guessed it, social media. With social platforms like Facebook, Twitter and Instagram (to name a few) ever growing, businesses online need to invest in social media marketing in order to grow their following and reach a whole new pool of potential customers. Dependent on your business type, there’s a social network out there for you. All businesses would do well to be on Facebook, but if you specialise in B2B, LinkedIn is the one for you. If you’re a ‘visual business’, then Instagram is the ideal. We could go on and on, but you get the point. You should be on social media if you aren’t, but how do you market on social media? Through like campaigns and targeted ads, the goal is to grow your following on social media in the hopes of gaining more business through these platforms. Sites like Facebook collect data about your likes and interests, as well as personal factors like age, location etc. All of this information is available to Facebook business users to create targeted ads to appear on a select demographic’s news feed. These ads can be used to promote products, services or entice users to ‘like’ your page, keeping them up to date with your posts.",
       "image": "http://ntechglobalsolutions.com/wp-content/uploads/2021/10/SMM-1.png",
       "rating": "3.9"
     },
-    {
-      "id": "4",
-      "title": "Content Marketing",
-      "price": "180",
-      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "category": "digital-marketing",
-      "image": "https://aqemelearning.com/wp-content/uploads/2022/01/Content-Marketing0.jpg",
-      "rating": {
-        "rate": "4.1"
-      }
-    },
+    
     {
       "id": "5",
       "title": "Email Marketing",
       "price": "205",
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "digital-marketing",
+      "description": "Another form of marketing is email marketing, and you’ve guessed it, it involves email. It’s a form of direct marketing which sends information, offers, blogs etc. directly to your mailing list’s inboxes. Through a sea of emails, your marketing email will appear, but the trick is getting it read. Yes, it may emerge alongside 100s emails, and if you can’t create an email that’s eye-catching, then it will be lost. Luckily there are email marketing tools and agencies (like us), that can assist you. Email marketing is a great way of reaching your customers, interacting with them after purchases or even sending them a newsletter. Be warned, sending unsolicited emails will land you a place in the spam box. So, make sure you’ve gathered your mailing list by your own means and not from a third-party company. They need to be your customers or have opted into receiving your mail. By using your existing mailing list, you can create a prospective list of recipients for your mail. Whether it be for remarketing or to update them on a new blog post, you need to send the right email to the right people. Once you’ve decided on the mail you’re going to send, using email marketing tools or a digital marketing agency *cough*, us, *cough* you can design an on-brand email to send out to your mailing list. This can bring in traffic to your site, or even help you sell some products with unique discount codes. With the analytic tools, you can monitor things like opening rate and even how many clicked through on a link.",
       "image": "https://neilpatel.com/wp-content/uploads/2021/07/email-marketing_featured-image.png",
       "rating": "4.6"
     },
@@ -50,7 +38,7 @@
       "id": "6",
       "title": "Affiliate Marketing",
       "price": "140",
-      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "description": "Both influencer and affiliate marketing utilise those in a position of ‘power’, usually social media influencers or industry experts etc. This is to assist you in marketing a product or service to their audience. It’s become more and more popular in recent years, through sites like Instagram and YouTube, where companies will enlist a well-known influencer, to promote their products or services on their social pages or affiliate websites. These collaborations can involve giving away unique discount codes, sponsored blog posts or prize draws etc. for the influencer’s audience, to build some buzz around your brand and business. This investment cycle entails finding someone with a large following. This can be on social or in an industry and then approaching them with a collaboration. Most will require payment or a cut of the sales that come from their audience purchasing their products or services. Then, they’ll create posts, blogs or videos, to ‘show off’ your collaboration and hopefully bring in more sales for your business. It’s about finding the right influencer for your business.",
       "category": "digital-marketing",
       "image": "http://funnyreceipts.com/wp-content/uploads/2022/09/i-54.png",
       "rating": "4.2"
@@ -59,7 +47,7 @@
       "id": "7",
       "title": "Mobile Advertising",
       "price": "170",
-      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "description": "Mobile advertising is something that spans across all forms of digital marketing we’ve mentioned above. Whether it’s mobile social ads, mobile search ads or even mobile TV and radio ads, every form of digital marketing we’ve mentioned can be transferred to mobile. Businesses all over the world are shifting more of their advertising budget into mobile because consumers spend more time on their mobile devices more than any other device. You can target mobile ads by audience segments or by using geofencing. Geofencing is one of the most popular tactics as it is based on a consumer’s physical location. This is a lazor-focused strategy as you are able to target mobiles ads to a clearly defined and relevant audience.",
       "category": "digital-marketing",
       "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/09/Social-media-advertising-and-design-tips.jpeg?auto=format&q=60&fit=max&w=930",
       "rating": "4"
